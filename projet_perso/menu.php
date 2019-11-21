@@ -72,7 +72,7 @@
 <?php
 $error_msg = '';
 $destinataire = 'salash@hotmail.fr';
-$objet = 'Suggestions';
+$objet = 'Suggestion';
 // if (strlen($message) <= 20) if(isset($_POST['Submit'])){
 //  mail($destinataire, $objet, $message,$expediteur);
 // echo '<p>votre message à bien été envoyé</p>';
